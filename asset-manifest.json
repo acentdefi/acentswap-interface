@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/acentswap-interface/static/js/main.f267dec9.chunk.js",
-    "main.js.map": "/acentswap-interface/static/js/main.f267dec9.chunk.js.map",
+    "main.js": "/acentswap-interface/static/js/main.8134cbed.chunk.js",
+    "main.js.map": "/acentswap-interface/static/js/main.8134cbed.chunk.js.map",
     "runtime-main.js": "/acentswap-interface/static/js/runtime-main.7bfc239c.js",
     "runtime-main.js.map": "/acentswap-interface/static/js/runtime-main.7bfc239c.js.map",
     "static/css/2.e47578a2.chunk.css": "/acentswap-interface/static/css/2.e47578a2.chunk.css",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.7bfc239c.js",
     "static/css/2.e47578a2.chunk.css",
     "static/js/2.252c5924.chunk.js",
-    "static/js/main.f267dec9.chunk.js"
+    "static/js/main.8134cbed.chunk.js"
   ]
 }
