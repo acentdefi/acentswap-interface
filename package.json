@@ -1,7 +1,7 @@
 {
   "name": "acentswap-interface",
   "description": "Acentswap Interface",
-  "homepage": "https://dongjinjeon.github.io/acentswap-interface1203",
+  "homepage": "https://acentdefi.github.io/acentswap-interface",
   "private": true,
   "dependencies": {
     "acentswap-sdk-bsc": "3.0.3",
